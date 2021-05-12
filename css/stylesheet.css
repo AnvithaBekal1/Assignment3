@@ -34,29 +34,73 @@ body{
       color: white;
   }
   .box img{
-      width:70px;
-      height: 70px;
+      width:100px;
+      height: 100px;
   }
   section{
       max-width:1000px;
       
   }
   .containers{
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      align-items: center;
-  }
+    display: flex;
+    flex-wrap: wrap;
+    
+}
   .box{
       background-color: white;
       width:300px;
+      margin:0 auto;
       height: 300px;
       margin-bottom: 20px;
     border-radius: 10px;
-    padding-left: 20px;
+    padding:25px;
+    align-items: flex-start;
   }
   .company{
       display: flex;
-      justify-content: space-between;
+
       align-items: center;
   }
+  .container1{
+      width:250px;
+    height: 250px;
+    font-size: 12px;
+    line-height: 1.6;
+    }
+    .container2{
+        width:250px;
+        height: 250px;
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    .firstcontainer{
+        display: flex;
+        flex-direction: column ;
+    }
+    .container3{
+        width: 250px;
+        height: 500px;
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    .container4{
+        width: 250px;
+        height: 250px;
+        font-size: 12px;
+
+    }
+    .container5{
+        width: 350px;
+        height: 250px;
+        font-size: 12px;
+
+    }
+    .firstcontainer{
+        display: flex;
+        flex-direction: column;
+    }
+    .secondcontainer{
+        display: flex;
+        flex-direction: column;  
+    }
+   
