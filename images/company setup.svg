@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="436" viewBox="0 0 330 436">
+  <g id="Group_9" data-name="Group 9" transform="translate(-75 -255)">
+    <g id="Group_7" data-name="Group 7">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="244" height="429" transform="translate(96 255)" fill="#ffae34"/>
+      <g id="Group_1" data-name="Group 1" transform="translate(-1 -24)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="58" height="58" transform="translate(125 319)" fill="#fff"/>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="73" height="15" transform="translate(118 362)" fill="#744618"/>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(126 -24)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="58" height="58" transform="translate(125 319)" fill="#fff"/>
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="73" height="15" transform="translate(118 362)" fill="#744618"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(-1 58)">
+        <rect id="Rectangle_2-3" data-name="Rectangle 2" width="58" height="58" transform="translate(125 319)" fill="#fff"/>
+        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="73" height="15" transform="translate(118 362)" fill="#744618"/>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(126 58)">
+        <rect id="Rectangle_2-4" data-name="Rectangle 2" width="58" height="58" transform="translate(125 319)" fill="#fff"/>
+        <rect id="Rectangle_3-4" data-name="Rectangle 3" width="73" height="15" transform="translate(118 362)" fill="#744618"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(-1 140)">
+        <rect id="Rectangle_2-5" data-name="Rectangle 2" width="58" height="58" transform="translate(125 319)" fill="#fff"/>
+        <rect id="Rectangle_3-5" data-name="Rectangle 3" width="73" height="15" transform="translate(118 362)" fill="#744618"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(126 140)">
+        <rect id="Rectangle_2-6" data-name="Rectangle 2" width="58" height="58" transform="translate(125 319)" fill="#fff"/>
+        <rect id="Rectangle_3-6" data-name="Rectangle 3" width="73" height="15" transform="translate(118 362)" fill="#744618"/>
+      </g>
+      <path id="Rectangle_4" data-name="Rectangle 4" d="M42,0h0A42,42,0,0,1,84,42V159a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V42A42,42,0,0,1,42,0Z" transform="translate(176 525)" fill="#ac4e1c"/>
+      <path id="Rectangle_5" data-name="Rectangle 5" d="M42,0h0A42,42,0,0,1,84,42V159a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V42A42,42,0,0,1,42,0Z" transform="translate(187 525)" fill="#ffda8f"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(145 174)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="145" height="255" transform="translate(96 255)" fill="#ffae34"/>
+      <g id="Group_1-2" data-name="Group 1" transform="translate(108.483 278.776)">
+        <rect id="Rectangle_2-7" data-name="Rectangle 2" width="34" height="34" transform="translate(4.517 0.224)" fill="#fff"/>
+        <rect id="Rectangle_3-7" data-name="Rectangle 3" width="44" height="9" transform="translate(-0.483 25.224)" fill="#744618"/>
+      </g>
+      <g id="Group_2-2" data-name="Group 2" transform="translate(183.972 278.776)">
+        <rect id="Rectangle_2-8" data-name="Rectangle 2" width="35" height="34" transform="translate(4.028 0.224)" fill="#fff"/>
+        <rect id="Rectangle_3-8" data-name="Rectangle 3" width="43" height="9" transform="translate(0.028 25.224)" fill="#744618"/>
+      </g>
+      <g id="Group_3-2" data-name="Group 3" transform="translate(108.483 327.517)">
+        <rect id="Rectangle_2-9" data-name="Rectangle 2" width="34" height="34" transform="translate(4.517 0.483)" fill="#fff"/>
+        <rect id="Rectangle_3-9" data-name="Rectangle 3" width="44" height="9" transform="translate(-0.483 25.483)" fill="#744618"/>
+      </g>
+      <g id="Group_4-2" data-name="Group 4" transform="translate(183.972 327.517)">
+        <rect id="Rectangle_2-10" data-name="Rectangle 2" width="35" height="34" transform="translate(4.028 0.483)" fill="#fff"/>
+        <rect id="Rectangle_3-10" data-name="Rectangle 3" width="43" height="9" transform="translate(0.028 25.483)" fill="#744618"/>
+      </g>
+      <g id="Group_5-2" data-name="Group 5" transform="translate(108.483 376.259)">
+        <rect id="Rectangle_2-11" data-name="Rectangle 2" width="34" height="35" transform="translate(4.517 -0.259)" fill="#fff"/>
+        <rect id="Rectangle_3-11" data-name="Rectangle 3" width="44" height="9" transform="translate(-0.483 25.741)" fill="#744618"/>
+      </g>
+      <g id="Group_6-2" data-name="Group 6" transform="translate(183.972 376.259)">
+        <rect id="Rectangle_2-12" data-name="Rectangle 2" width="35" height="35" transform="translate(4.028 -0.259)" fill="#fff"/>
+        <rect id="Rectangle_3-12" data-name="Rectangle 3" width="43" height="9" transform="translate(0.028 25.741)" fill="#744618"/>
+      </g>
+      <path id="Rectangle_4-2" data-name="Rectangle 4" d="M24.5,0h0A24.5,24.5,0,0,1,49,24.5V95a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V24.5A24.5,24.5,0,0,1,24.5,0Z" transform="translate(144 415)" fill="#ac4e1c"/>
+      <path id="Rectangle_5-2" data-name="Rectangle 5" d="M25,0h0A25,25,0,0,1,50,25V95a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(150 415)" fill="#ffda8f"/>
+    </g>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="330" height="7" transform="translate(75 684)" fill="#330303"/>
+  </g>
+</svg>
