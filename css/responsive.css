@@ -268,7 +268,7 @@
         display: flex;
         justify-content:flex-start;
         align-items: center;
-        margin-right:750px;
+        margin-right:850px;
         color:white;
         font-size: 14px;
         gap:10px;
@@ -287,7 +287,6 @@
     {
         font-size: 20px;
         color: white;
-        margin-left: 90px;
         margin-bottom: 30px;
     }
     
@@ -295,7 +294,7 @@
     {
         display: flex; 
         flex-wrap: wrap;
-        margin-left: 90px; 
+    
         font-weight: lighter;
     }
     .box
